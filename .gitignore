@@ -6,3 +6,5 @@ __pycache__
 
 # Ignore arquivos relacionados às chaves de API
 .env
+
+.gitignore
