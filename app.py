@@ -1,6 +1,3 @@
-#set number random to variable each 5 second
-#where number is like timestamp 
-from more_itertools import last
 from numpy import rec
 import pymongo
 import cv2
