@@ -3,7 +3,6 @@
 from more_itertools import last
 from numpy import rec
 import pymongo
-import pybase64
 import cv2
 from ultralytics import YOLO
 import supervision as sv
