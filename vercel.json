@@ -1,8 +1,9 @@
 {
-    "routes": [
+  "version": 2,
+  "routes": [
       {
-        "src": "/(.*)",
-        "dest": "/app.py"
+          "src": "(.*)",
+          "dest": "app.py"
       }
-    ]
-  }
+  ]
+}
